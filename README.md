@@ -1,2 +1,2 @@
 # sepehr-rasouli.github.io
-my personoal website
+my personal website
